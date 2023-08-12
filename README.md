@@ -13,10 +13,10 @@ projects are built from scratch with a dash of creative touch.
 
 ---
 
-### 🧰 Languages Used
+### 🧰 Favorite Languages Used
 - C++
+- C
 - Python
-
 
 <!---
 blasian01/blasian01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
