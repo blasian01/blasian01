@@ -2,9 +2,11 @@
 
 **`Digital Desiner (Developer/Hacker/Gamer) `**
 
-I am a rising devloper looking to solve the worlds problems one line of code at a time. Currently a 
-computer science student looking to dive deep into the world of programming and create. All of my 
-projects are built from scratch with a dash of creative touch.
+🌟 About Me
+I'm a passionate developer on a mission to address global challenges, one line of code at a time. As a Computer Science student, I'm immersing myself in the vast universe of programming, always eager to innovate and build.
+
+🛠 My Projects
+Every project in my repository is crafted from the ground up, infused with creativity and a unique touch. Dive in to see my approach to problem-solving and design!
 
 - 👀 Machine learning
 - 🤌🏽 Cyber Security
