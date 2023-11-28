@@ -11,8 +11,8 @@ Every project in my repository is crafted from the ground up, infused with creat
 - 👀 Machine learning
 - 🤌🏽 Cyber Security
 - 😎 Software Development
-- 📫 How to reach me Bronsonwoods0@gmail.com 
-
+- 📫 How to reach me Bronsonwoods0@gmail.com
+- Learn some more: www.bronsonwoods.com
 ---
 
 ### 🧰 Favorite Languages Used
