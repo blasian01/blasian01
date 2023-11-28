@@ -1,5 +1,3 @@
----
-
 # Bronson Woods
 
 **`Digital Designer | Developer | Hacker | Gamer`**
@@ -42,5 +40,3 @@ As the founder of Nonhuman, I'm at the forefront of revolutionizing how we inter
 ---
 
 *This README is more than just a profile; it's a snapshot of my journey. Welcome to my world.*
-
----
