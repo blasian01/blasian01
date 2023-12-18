@@ -23,9 +23,9 @@ Each project is a testament to my commitment to excellence and my journey in the
 
 ---
 
-### 🚀 Nonhuman: My Startup Venture
+### 🚀 Fortaify: My Startup Venture
 
-As the founder of Nonhuman, I'm at the forefront of revolutionizing how we interact with AI and machine learning. Nonhuman isn't just a company; it's a catalyst for change, driving innovation in the realm of AI-assisted content creation. Stay tuned for groundbreaking developments!
+As the founder of Fortaify, I'm at the forefront of revolutionizing how we interact with AI and machine learning. Fortaify isn't just a company; it's a catalyst for change, driving innovation in the realm of AI-assisted content creation. Stay tuned for groundbreaking developments!
 
 ### 🧰 Favorite Languages
 
