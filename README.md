@@ -35,7 +35,7 @@ As the founder of Fortaify, I'm at the forefront of revolutionizing how we inter
 
 ---
 
-*Bronson Woods - Blending Technology with Creativity, One Code at a Time*
+*Bronson Woods - Blending Technology with Creativity, One Line of Code at a Time*
 
 ---
 
