@@ -20,6 +20,7 @@ Each project is a testament to my commitment to excellence and my journey in the
 
 - 📫 Reach out: [Bronsonwoods0@gmail.com](mailto:Bronsonwoods0@gmail.com)
 - 💼 Explore more: [www.bronsonwoods.com](https://www.bronsonwoods.com)
+- linkedin: [Bronson-Woods](https://www.linkedin.com/in/bronson-woods-18977b209/)
 
 ---
 
